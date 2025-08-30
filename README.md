@@ -75,6 +75,7 @@ Then open the local URL printed in the terminal to use the chatbot. It has one i
 - Keep .env and any secrets files out of Git; add them to .gitignore before pushing.
 
 ## What to try next (optional)
-- Add basic error messages if the key is missing, and a small character limit for inputs.[1]
-- Swap the model name or temperature in the ChatOpenAI init to see different response styles.[3]
+- Add basic error messages if the key is missing, and a small character limit for inputs.
+- Swap the model name or temperature in the ChatOpenAI init to see different response styles.
+
 
