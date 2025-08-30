@@ -23,7 +23,7 @@ langchain-health-demo/
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/langchain-health-demo.git
+git clone https://github.com/utg01/langchain-health-demo.git
 cd langchain-health-demo
 
 2️⃣ Create Virtual Environment
