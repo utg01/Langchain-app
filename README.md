@@ -26,7 +26,7 @@ This is a very basic chatbot built while learning LangChain for the first time. 
 
 ```bash
 # 1) Clone and enter
-git clone <(https://github.com/utg01/Langchain-app)>
+git clone https://github.com/utg01/Langchain-app
 ```
 
 
